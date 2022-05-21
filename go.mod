@@ -7,6 +7,5 @@ require (
 	github.com/go-test/deep v1.0.4
 	github.com/google/go-cmp v0.5.7
 	github.com/gorilla/websocket v1.4.2
-	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/stretchr/testify v1.2.2
+	github.com/stretchr/testify v1.7.1
 )
